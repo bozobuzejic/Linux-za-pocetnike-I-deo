@@ -18,6 +18,6 @@ NAPOMENA:
 
 *U folder Linux-kurs snimiti i fajl SADRŽAJ.md koji sadrži linkove koji vode ka svakom direktorijumu i dokumentu ponaosob.
 
-*Fajl SADRŽAJ-GitHub(links).md se ne mora kopirati. On sadrži linkove koji vode ka svakom pojedinačnom fajlu postavljenom na https://github.com/bozobuzejic?tab=projects
+*Fajl SADRŽAJ-GitHub(links).md se ne mora kopirati. On sadrži linkove koji vode ka svakom pojedinačnom fajlu postavljenom na https://github.com/bozobuzejic
 
 *Preporuka: Držati se datog redosleda.
