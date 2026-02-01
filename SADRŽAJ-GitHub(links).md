@@ -96,7 +96,7 @@ Sadržaj za GitHub:
     - [Prijava na sistem](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/2.Prijava_na_sistem.md)
     - [Osnovni fajlovi](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/3.osnovni_fajlovi.md)
     - [Su i sudo](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/4.su_i_sudo.md)
-    - [Spisak komandi](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/5.Spisak_komandi.md)
+    - [Spisak komandi](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/5.spisak_komandi.md)
     - [Kreiranje korisnika](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/6.kreiranje_korisnika.md)
     - [Usermod i groupmod](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/7.usermod_groupmod.md) 
 - [Komunikacija korisnika](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/6.Administracija_korisnika/Komunikacija_usera_na_sistemu)
