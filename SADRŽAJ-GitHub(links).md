@@ -66,7 +66,7 @@ Sadržaj za GitHub:
      - [RPM](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/4.RPM.md)
          - [Yum i dnf](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/6.yum_i_dnf.md)
       - [Pacman](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/7.pacman.md)
-      - [Zipper](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/8.zipper.md)
+      - [Zypper](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/8.zypper.md)
     - [Dkms](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/9.dkms.md)    
     - [Arhive](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/10.Arhive.md)
     - [Kompajliranje koda](https://github.com/bozobuzejic/Linux-za-pocetnike-I-deo/blob/main/Linux-kurs%20I%20deo/4.Paketi_programa/11.compile_source_code.md)
