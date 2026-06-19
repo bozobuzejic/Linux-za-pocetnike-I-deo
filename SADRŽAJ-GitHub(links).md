@@ -231,7 +231,7 @@ Sadržaj za GitHub:
    - [Prikaz javne IP adrese](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/1.Mrežni_alati/19.prikaz_javne_IP_adrese.md)
    - [Hotspot](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/1.Mrežni_alati/20.hotspot.md)
    - [Proxy squid](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/1.Mrežni_alati/21.1.proxy_squid.md)
-   - [Squid squidgard](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/1.Mrežni_alati/21.2.squid_squidgard.md)
+   - [Squid squidguard](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/1.Mrežni_alati/21.2.squid_squidguard.md)
 
 - [Porosleđivanje portova](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova) 
    - [Router port forward](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/1.router_port_forward.md)
