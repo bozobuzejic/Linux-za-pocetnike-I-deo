@@ -66,7 +66,7 @@ Sadržaj:
      - [RPM](4.Paketi_programa/4.RPM.md)
          - [Yum i dnf](4.Paketi_programa/6.yum_i_dnf.md)
       - [Pacman](4.Paketi_programa/7.pacman.md)
-      - [Zipper](4.Paketi_programa/8.zipper.md)
+      - [Zypper](4.Paketi_programa/8.zypper.md)
     - [Dkms](4.Paketi_programa/9.dkms.md)    
     - [Arhive](4.Paketi_programa/10.Arhive.md)
     - [Kompajliranje koda](4.Paketi_programa/11.compile_source_code.md)
