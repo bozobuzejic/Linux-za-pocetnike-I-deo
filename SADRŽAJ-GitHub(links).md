@@ -237,7 +237,7 @@ Sadržaj za GitHub:
    - [Router port forward](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/1.router_port_forward.md)
    - [Miniupnpc](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/2.miniupnpc.md)
    - [Portmap](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/3.portmap.md)
-   - [Serveo](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/4.Serveo.md)
+   - [Serveo](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/4.serveo.net.md)
    - [Ngrok](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/5.ngrok.md)
    - [Ssh tunel port forward](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/6.ssh_tunel_port_forward.md)
    - [Bore tunel](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/7.bore.md)
