@@ -283,7 +283,7 @@ Sadržaj za GitHub:
   - [Mailx i Gmail](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/14.Mail/1.mailx_i_gmail.md)
   - [Mutt](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/14.Mail/2.mutt.md)
   - [Postfix, dovecot, rainloop, mail](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/14.Mail/3.postfix_dovecot_rainloop_mail.md)
-  - [SpamAssasin](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/14.Mail/4.SpamAssasin.md)
+  - [SpamAssassin](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/14.Mail/4.SpamAssassin.md)
   
 ---
 
